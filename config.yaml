@@ -1,0 +1,15 @@
+update_interval_minutes: 5 # change to your desired update interval in minutes
+timezone: Europe/Amsterdam # change to your timezone based on https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+location:
+  lat: 0.00
+  lon: 0.00
+
+calendar:
+  ics_url: "" # add your icalendar url here. must be publically accessible.
+
+display:
+  width: 800
+  height: 480
+  full_refresh_every: 6
+  driver: "simulator"  # change to "waveshare" on the Pi
