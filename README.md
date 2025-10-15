@@ -1,4 +1,4 @@
-# E-Hub
+# E-Hub for Raspberry PI
 
 
 ## Overview
