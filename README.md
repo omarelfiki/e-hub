@@ -1,8 +1,6 @@
 # E-Hub for Raspberry PI
 
 
-## Overview
-
 E-Hub is a Python-based software designed for a desk unit equipped with an e-ink display. It provides at-a-glance information such as weather updates and calendar events, making it ideal for productivity and organization at your workspace.
 
 ![E-Hub Dashboard](render/dashboard.png)
